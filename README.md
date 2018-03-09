@@ -6,6 +6,8 @@ it is "Diving into the world of ML and AI, ie; Machine Learning and Artificial I
 Per say, am sort of noob here, who is an enthusiast of ML and AI, who love to explore. Advanced Pardon :)
 
 Committed Summer Internships at CUSAT and IIST in Machine Learning/Computer Vision.
-Reading going on with a paper https://link.springer.com/article/10.1007/s10955-017-1836-5 
+Reading going on with a paper https://link.springer.com/article/10.1007/s10955-017-1836-5 nowadays
 
-Thanks :)
+Regards,
+Krishna
+
